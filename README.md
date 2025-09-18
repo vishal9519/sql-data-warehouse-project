@@ -16,6 +16,22 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 *Integration*: Combine both sources into a single, user-friendly data model designed for analytical queries.
 *Scope*: Focus on the latest dataset only; historization of data is not required.
 *Documentation*: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
-19
-22
+
+  
 ### BI: Analytics & Reporting (Data Analytics)
+Objective 
+
+Develope SQL-based analytics to deliver detailed insights into:
+Customer Behaviour 
+Product Performance
+Sales Trends
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+LICENSE
+This project is licensed the MIT License. You are free to use, modiify, and share this project with proper
+attribution.
+
+About Me 
+Hi there! i'm Vishal Chaurasiya . I'm learning skills and need a best and good organization to deliver my skills in to there to give a company sucess.
+
+
